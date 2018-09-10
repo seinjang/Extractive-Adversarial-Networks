@@ -20,3 +20,8 @@
 </p>
 
 모델은 Generator 1개, Predictor 2개로 이루어져 있으며, 각각 RNNs 구조를 사용한다. 모델의 학습은 REINFORCE-style policy gradient optimization을 활용하였다.
+
+
+## Related works
+* [Rationalizing neural predictions](https://github.com/YujiaBao/R2A/tree/master/rationalization)
+* [Deriving Machine Attention from Human Rationales](https://github.com/YujiaBao/R2A)
